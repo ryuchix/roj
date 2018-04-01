@@ -1,0 +1,28 @@
+title: Home
+
+pages:
+  template: news
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  intro:
+    label: Intro
+    type:  textarea
+
+  text:
+    label: Text
+    type:  textarea
+
+  sidebar_menu:
+    label: Sidebar
+    type: structure
+    fields:
+      menu:
+        label: Menu Name
+        type: text
+      link:
+        label: Menu Link
+        type: text

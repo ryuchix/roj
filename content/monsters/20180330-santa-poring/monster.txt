@@ -1,0 +1,37 @@
+Title: Santa Poring
+
+----
+
+Coverimage: cropped-poring-logo.jpg
+
+----
+
+Grade: one
+
+----
+
+Property: earth
+
+----
+
+Race: angel
+
+----
+
+Size: small
+
+----
+
+Hp: sdf
+
+----
+
+Level: 2
+
+----
+
+Skills: gdfg
+
+----
+
+Ocation: dfgdfg

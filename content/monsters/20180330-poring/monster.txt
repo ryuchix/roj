@@ -1,0 +1,45 @@
+Title: Poring
+
+----
+
+Coverimage: cropped-poring-logo.jpg
+
+----
+
+Date: today
+
+----
+
+Text: 
+
+----
+
+Grade: two
+
+----
+
+Property: earth
+
+----
+
+Race: demon
+
+----
+
+Size: small
+
+----
+
+Hp: 23
+
+----
+
+Level: 3
+
+----
+
+Skills: envenom
+
+----
+
+Ocation: 

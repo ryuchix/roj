@@ -1,0 +1,37 @@
+Title: Poporing
+
+----
+
+Coverimage: cropped-poring-logo.jpg
+
+----
+
+Grade: one
+
+----
+
+Property: nuetral
+
+----
+
+Race: demon
+
+----
+
+Size: small
+
+----
+
+Hp: 34
+
+----
+
+Level: 1
+
+----
+
+Skills: sdf
+
+----
+
+Ocation: sdf

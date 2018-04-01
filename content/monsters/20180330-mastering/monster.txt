@@ -1,0 +1,37 @@
+Title: Mastering
+
+----
+
+Coverimage: cropped-poring-logo.jpg
+
+----
+
+Grade: one
+
+----
+
+Property: nuetral
+
+----
+
+Race: angel
+
+----
+
+Size: small
+
+----
+
+Hp: 34
+
+----
+
+Level: 2
+
+----
+
+Skills: g
+
+----
+
+Ocation: fg

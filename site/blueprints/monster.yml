@@ -1,0 +1,97 @@
+title: Monster
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  title
+    
+  coverimage:
+    label: Cover Image
+    type: image
+  
+  grade:
+    label: Grade
+    type: select
+    width: 1/2
+    options:
+      one: '1'
+      two: '2'
+      three: '3'
+      four: '4'
+      five: '5'
+
+  property:
+    label: Property
+    type: select
+    width: 1/2
+    options:
+      earth: Earth
+      nuetral: Nuetral
+      undead: Undead
+      ghost: Ghost
+      holy: Holy
+      fire: Fire
+      shadow: Shadow
+      wind: Wind
+      water: Water
+
+  race:
+    label: Race
+    type: select
+    width: 1/2
+    options:
+      demon: Demon
+      angel: Angel
+      insect: Insect
+      animal: Animal
+      undead: Undead
+      demihuman: Demi Human
+      formless: Formless
+      dragon: Dragon
+      plant: Plant
+
+  size:
+    label: Size
+    type: select
+    width: 1/2
+    options:
+      small: Small
+      medium: Medium
+      large: Large
+
+  hp:
+    label: HP
+    type: text
+    width: 1/2
+
+  level: 
+    label: Level
+    type: number
+    width: 1/2
+    min: 1
+
+  skills:
+    label: Skills
+    type: tags
+
+  location:
+    label: Location
+    type: tags
+
+  card_effect:
+    label: Card Effect
+    type: text
+
+  card_drop:
+    label: Where to get?
+    type: checkboxes
+    options:
+      monster: Monster Drop
+      oca: Old Card Album
+      rvr: RvR
+      event: Event
+
+
+

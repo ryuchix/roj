@@ -1,0 +1,25 @@
+title: Article
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type: title
+    
+  intro:
+    label: Intro
+    type: textarea
+    
+  image:
+    label: Image
+    type: image
+
+  link:
+    label: Link
+    type: text
+
+  date:
+    label: Date
+    type: hidden
+    default: now
